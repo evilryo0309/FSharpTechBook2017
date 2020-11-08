@@ -13,6 +13,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "CH02_FSharpSamples05_03", "
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CH02_FSharpSamples06_01", "CH02_FSharpSamples06_01\CH02_FSharpSamples06_01.fsproj", "{D180E6F7-10A3-46FD-A85F-8A787531F34F}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CH02_FSharpSamples06_02", "CH02_FSharpSamples06_02\CH02_FSharpSamples06_02.fsproj", "{6FE191CE-2274-492F-9B17-1630CEF68551}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D180E6F7-10A3-46FD-A85F-8A787531F34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D180E6F7-10A3-46FD-A85F-8A787531F34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D180E6F7-10A3-46FD-A85F-8A787531F34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE191CE-2274-492F-9B17-1630CEF68551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE191CE-2274-492F-9B17-1630CEF68551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE191CE-2274-492F-9B17-1630CEF68551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE191CE-2274-492F-9B17-1630CEF68551}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
